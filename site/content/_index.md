@@ -1,5 +1,5 @@
 ---
-title: Board Management Software for Nonprofits
+title: Board Management Software
 subtitle: Powerful, yet simple collaboration software designed specifically for
   nonprofits with file sharing, task management, meetings, team chat and more.
 image: img/chatgroup.png
