@@ -1,6 +1,7 @@
 ---
-title: Great coffee with a consciences
-subtitle: Support sustainable farming while enjoying a cup
+title: Board Management Software for Nonprofits
+subtitle: Powerful, yet simple collaboration software designed specifically for
+  nonprofits with file sharing, task management, meetings, team chat and more.
 image: img/chatgroup.png
 blurb:
   heading: Why Kaldi huh?
